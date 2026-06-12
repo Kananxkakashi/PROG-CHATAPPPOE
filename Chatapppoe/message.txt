@@ -1,0 +1,18 @@
+Message ID: 1461615420
+Message Number: 1
+Recipient: +27321456789
+Message: Hello
+Hash: 14:1:HELLOHELLO
+--------------------------
+Message ID: 6673565201
+Message Number: 1
+Recipient: +27213456789
+Message: hello
+Hash: 66:1:HELLOHELLO
+----------------------
+Message ID: 1108979851
+Message Number: 2
+Recipient: +27812345679
+Message: fat
+Hash: 11:2:FATFAT
+----------------------

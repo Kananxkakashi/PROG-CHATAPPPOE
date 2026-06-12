@@ -17,7 +17,8 @@ public class validator {
     }
     
     public static boolean isValidSouthAfricanNumber(String number) {
-        return number.matches("^\\+27\\d{8}$");
+        
+        return number.matches("^\\+27\\d{9}$");
     }
             
     
